@@ -1,5 +1,5 @@
 # LeecheRV-Dock_Docs
-# *Conexión Serial con el LicheeRV usando minicom*
+## *Conexión Serial con el LicheeRV usando minicom*
 ## Instalar
 ```
 sudo apt install minicom
