@@ -71,7 +71,7 @@ Link [CLion](https://www.jetbrains.com/es-es/clion/) de [jetbrains](https://www.
 11. SSH
 12. Repetir pasos 7 y 8
 
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------------
 ~~Intento de traducción del [tutorial](https://bbs.sipeed.com/thread/1300) que se encuentra en la documentación para quemar la imagen en la memoria microSD [wiki sipeed](https://wiki.sipeed.com/hardware/en/lichee/RV/flash.html)~~
 # ~~Tabla de contenido~~
   * Introducción a la serie de tableros
