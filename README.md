@@ -75,6 +75,8 @@ Dos opciones:
 11. SSH
 12. Repetir pasos 7 y 8
 
+# Para ver los Pines que estan en uso y los disponibles:
+Use el comando: ```cat /sys/kernel/debug/pinctrl/2000000.pinctrl/pinmux-pins```
 # ----------------------------------------------------------------
 ~~Intento de traducción del [tutorial](https://bbs.sipeed.com/thread/1300) que se encuentra en la documentación para quemar la imagen en la memoria microSD [wiki sipeed](https://wiki.sipeed.com/hardware/en/lichee/RV/flash.html)~~
 # ~~Tabla de contenido~~
