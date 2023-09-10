@@ -57,6 +57,10 @@ Link [CLion](https://www.jetbrains.com/es-es/clion/) de [jetbrains](https://www.
 6. Registrese en la página con una cuenta estudiantil
 7. Inicie sesión en el programa con su cuenta ya registrada y que haya solicitado la prueba para estudiantes
 #### ***Cree un proyecto en C***
+# Instalacion de rsync
+Dos opciones: 
+* Desde la terminal ```sudo apt install rsync```
+* Medio grafico usando: Synaptic Package Manager
 # Desarrollando para el sistema embebido
 1. Cree un proyecto en C
 2. Clic en el engranaje
